@@ -1,6 +1,6 @@
 # Created by https://www.gitignore.io/api/data,venv,python,virtualenv,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=data,venv,python,virtualenv,jupyternotebooks
-
+data/raw/listings.csv
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
